@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SberTranslator</string>
+
+
+    <string-array name="language">
+        <item>Русский</item>
+        <item>English</item>
+        <item>Deutsch</item>
+    </string-array>
+
+</resources>
